@@ -21,16 +21,12 @@ header nav h2 {
 	font-size: 1.75em;
 }
 
-header nav p {
-	font-size: 1.4em;
-}
 
-#info ul li, p {
+#work ul li, #education ul li, #info p {
 	margin: auto;
 	width: 50%;
 	font-size: 1.4em;
 }
-
 
 #nav {
 	width: 90%;

@@ -11,14 +11,15 @@ h1, h2, div, p {
 header nav h1 {
 	margin: auto;
 	text-align: center;
-	font-size: 8em;
+	font-size: 300%;
 	padding: 5% 0% 0% 2%;
 }
 
 header nav h2 {
 	margin: auto;
 	text-align: center;
-	font-size: 1.75em;
+	width: 100%;
+	font-size: 150%;
 }
 
 
@@ -84,7 +85,7 @@ header .position {
 #bottom {
 	margin: auto;
 	text-align: center;
-	font-size: 1em;
+	font-size: 100%;
 	width: 15%;
 	padding: 2% 0 0 0;
 }

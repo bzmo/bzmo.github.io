@@ -26,7 +26,7 @@ header nav h2 {
 #work ul li, #education ul li, #info p {
 	margin: auto;
 	width: 50%;
-	font-size: 1.4em;
+	font-size: 100%;
 }
 
 #nav {
@@ -54,7 +54,7 @@ header nav h2 {
 }
 
 header .side-year {
-	font-size: 1.5em;
+	font-size: 120%;
 	color: black;
 	position: absolute;
     left: 79%;

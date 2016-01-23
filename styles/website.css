@@ -21,6 +21,10 @@ header nav h2 {
 	font-size: 1.75em;
 }
 
+header nav p {
+	font-size: 1.4em;
+}
+
 #info ul li, p {
 	margin: auto;
 	width: 50%;

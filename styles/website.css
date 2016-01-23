@@ -4,7 +4,7 @@ header nav, #about header, #work header, #education header{
 	padding: 1em;
 }
 
-h1, h2, div {
+h1, h2, div, p {
 	font-family: "Arvo", Times, serif;
 }
 

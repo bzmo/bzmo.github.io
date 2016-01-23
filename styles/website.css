@@ -1,0 +1,90 @@
+header nav, #about header, #work header, #education header{
+	margin: auto;
+	width: 50%;
+	padding: 1em;
+}
+
+h1, h2, div {
+	font-family: "Arvo", Times, serif;
+}
+
+header nav h1 {
+	margin: auto;
+	text-align: center;
+	font-size: 8em;
+	padding: 5% 0% 0% 2%;
+}
+
+header nav h2 {
+	margin: auto;
+	text-align: center;
+	font-size: 1.75em;
+}
+
+#info ul li, p {
+	margin: auto;
+	width: 50%;
+	font-size: 1.4em;
+}
+
+
+#nav {
+	width: 90%;
+    text-align: justify;
+    min-width: 20%;
+
+}
+#nav:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+
+#nav li {
+	text-decoration: none;
+	text-transform: uppercase;
+    display: inline-block;
+    font-size: 1.3em;
+}
+
+.icon {
+	vertical-align: text-bottom;
+	padding: 0 0 0 1%;
+}
+
+header .side-year {
+	font-size: 1.5em;
+	color: black;
+	position: absolute;
+    left: 79%;
+    width: 20%;
+    padding-top: 0.25%;
+}
+
+header .company-site {
+	display: block;
+	font-size: 2em;
+}
+
+header .position {
+	font-style: italic;
+	color: #4C787E;
+	font-size: 1.5em;
+	padding: 20px 0px 0px 0px;
+}
+
+.info-header {
+	text-align: left;
+	font-size: 2em;
+	margin: auto;
+	width: 50%;
+	padding: 50px 0px 30px 0px;
+}
+
+#bottom {
+	margin: auto;
+	text-align: center;
+	font-size: 1em;
+	width: 15%;
+	padding: 2% 0 0 0;
+}

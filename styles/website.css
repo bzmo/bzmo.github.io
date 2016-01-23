@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Arvo);
+
 header nav, #about header, #work header, #education header{
 	margin: auto;
 	width: 50%;
@@ -26,7 +28,7 @@ header nav h2 {
 #work ul li, #education ul li, #info p {
 	margin: auto;
 	width: 50%;
-	font-size: 100%;
+	font-size: 140%;
 }
 
 #nav {
@@ -54,7 +56,7 @@ header nav h2 {
 }
 
 header .side-year {
-	font-size: 120%;
+	font-size: 150%;
 	color: black;
 	position: absolute;
     left: 79%;
